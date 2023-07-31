@@ -8,3 +8,4 @@ sudo apt-get -y install default-jre
 sudo apt-get -y install default-jdk
 sudo apt-get -y install tomcat7
 sudo service tomcat7 start
+
